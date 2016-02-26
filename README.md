@@ -14,13 +14,12 @@
 * 
 ##文件说明
 
-1. eams	入口文件
+1. index	入口文件
 2. BKS	本科生信息
 3. YJS	研究生信息
 4. USER	为BKS、YJS基类
-4. conf	配置（部分需自行配置）
-5. GetLibInfo	图书馆信息
-6. index	防止误访问
+5. conf	配置文件（部分需自行配置）
+6. GetLibInfo	图书馆信息
 
 ##一、研究生部分
 
