@@ -14,7 +14,7 @@
 * 
 ##文件说明
 
-1. index	入口文件
+1. eams	入口文件
 2. BKS	本科生信息
 3. YJS	研究生信息
 4. USER	为BKS、YJS基类

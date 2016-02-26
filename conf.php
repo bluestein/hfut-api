@@ -68,8 +68,8 @@ define('LIB_URL_OPAC', 'http://mc.lib.hfut.edu.cn/cmpt/opac/opacLink.jspx?stype=
 define('LIB_URL_XJ_PREFIX', 'http://210.45.242.51:8080/sms/opac/user/'); //续借url前缀
 
 //数据库
-define("MYSQL_HOST", 'localhost');
-define("MYSQL_USER", 'root');
+define("MYSQL_HOST", 'YOUR_HOST'); // 修改此处
+define("MYSQL_USER", 'YOUR_USER'); // 修改此处
 define("MYSQL_PWD", 'YOUR_PASSWORD'); // 修改此处
 define("MYSQL_DB", 'YOUR_DATABASE'); // 修改此处
 
