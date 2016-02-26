@@ -4,6 +4,8 @@
 
 测试接口地址：`http://121.251.19.148/api/eams/eams.php`
 
+Demo：`http://121.251.19.148/hfuteams/login.php`
+
 ##目录
 
 * 文件说明
